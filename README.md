@@ -7,6 +7,7 @@ This repository contains a collection of data science projects created using Col
 Each project directory contains Jupyter Notebooks (.ipynb files) with detailed exploratory data analysis, data preprocessing, and insights generation.
 
 - **GROUP_11_M6_Fairness_Credit_Scoring_Product**: Analysis of fairness in credit scoring.
+- **GROUP - 17 WOW PROJECT**: Predicting what aspect of Graduate Admission should International Students focus efforts on.
 - **GROUP_24_M4_Hackathon_Cirrhosis_Product**: Investigative study on cirrhosis.
 - **GROUP_4_M5_Hackathon_Wind_speed_prediction**: Wind speed prediction model development.
 - **Hackathon_3**: Identify individuals with good credit scores based upon the available predictors.
